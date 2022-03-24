@@ -1,0 +1,34 @@
+{
+    "name": "@violetics/anime",
+    "version": "0.1.0",
+    "description": "Anime API Wrapper for https://violetics.pw/api/anime",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "node test/index.test",
+        "prettier": "prettier -w ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/violetics/anime.git"
+    },
+    "keywords": [
+        "violetics",
+        "apk",
+        "wrapper",
+        "api",
+        "apps"
+    ],
+    "author": "Violetics",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/violetics/anime/issues"
+    },
+    "homepage": "https://github.com/violetics/anime#readme",
+    "dependencies": {
+        "got": "^12.0.2"
+    },
+    "devDependencies": {
+        "prettier": "^2.6.0"
+    }
+}
