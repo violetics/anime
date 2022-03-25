@@ -1,6 +1,6 @@
 {
     "name": "@violetics/anime",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Anime API Wrapper for https://violetics.pw/api/anime",
     "main": "src/index.js",
     "scripts": {
